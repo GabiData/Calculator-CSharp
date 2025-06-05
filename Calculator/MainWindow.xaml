@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:Calculator"
         mc:Ignorable="d"
         Title="Calculator" Height="550" Width="350" FontFamily="Century Gothic" 
-        Foreground="White" WindowStyle="SingleBorderWindow">
+        Foreground="White" WindowStyle="SingleBorderWindow" WindowStartupLocation="CenterScreen">
 
     <Window.Resources>
         <SolidColorBrush x:Key="numbersColor"/>
